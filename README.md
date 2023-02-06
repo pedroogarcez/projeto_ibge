@@ -12,7 +12,7 @@ O projeto será denseolvido utilizando a linguagem de programação Python para 
 </p>
 
 
-<h2> Python libs: </h2>
+<h2> Bibliotecas: </h2>
 
 ```bash
 pip install ggplot
