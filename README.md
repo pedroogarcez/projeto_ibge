@@ -11,3 +11,14 @@ Para entender e inferir sobre características socioecômicas da população bra
 O projeto será denseolvido utilizando a linguagem de programação Python para realização de estatísticas contínuas e geração de gráficos para intepretação dos resultados.
 </p>
 
+
+<h2> Python libs: </h2>
+
+```bash
+pip install ggplot
+pip install numpy
+pip install pandas
+pip install matplotlib
+```
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
